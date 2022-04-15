@@ -1,2 +1,0 @@
-# quizzical
-A trivia game
